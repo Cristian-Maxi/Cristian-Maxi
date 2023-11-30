@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 Soy Cristian Gomez, Porgramador Web Full Stack Jr buscando la posibilidad de pulir mis habilidades y crecer profesionalmente como programador. Estoy preparado para utilizar todas mis habilidades para impulsar los objetivos y proyectos que se quieran alcanzar. Aportaré mi actitud positiva, mi perseverancia, mi motivación y toda mi voluntad para aprender nuevas tecnologias y cumplir con las metas que se me propongan. Soy capaz de trabajar tanto independientemente como en equipo. 
 
 
